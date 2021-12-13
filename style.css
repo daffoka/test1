@@ -1,0 +1,51 @@
+.main{
+    background-color:#403e44;
+    color:white;
+    height:480px;
+    display: flex;
+    align-self: center;
+    border: solid #7B68EE;
+}
+
+strong{
+    text-align: center;
+    color:white;
+}
+
+.header{
+    background-color:black;
+    text-align:center;
+    font-size: 40px;
+    color:white;
+    border: solid #7B68EE;
+    font-family: 	Brush Script MT;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.catalog{
+    display:flex;
+    justify-content: space-between;
+    background-color:#95949a;
+    height: 700px;
+    width: 1848px;
+}
+
+.catalog-item{
+    text-align: center;
+    border: solid #7B68EE;
+}
+
+img{
+    border: 3px solid #00a8e1;
+}
+
+.otstup{
+    margin-top: 10px;
+}
+
+.levo{
+    margin-left: 10px;
+}
